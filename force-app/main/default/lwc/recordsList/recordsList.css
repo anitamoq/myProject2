@@ -1,0 +1,13 @@
+.table{
+    height: 300px;
+    color: rgb(41, 41, 124);
+}
+
+.title{
+    font-size:large;
+    min-height: 60px;
+    color: rgb(41, 41, 124);
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
